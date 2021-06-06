@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @imdrov
+- 👀 I am interested in different things, depending on the mood
+- 🌱 I am currently learning: python
+- 📫 How to reach me: https://t.me/imdrov
